@@ -7,7 +7,7 @@
 - Retrofit
 - Dagger Hilt
 - Coroutines
-- Live Data
-- View Model
+- LiveData
+- ViewModel
 - View Binding
 - Fragment
